@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e215421b-2feb-4dce-a201-efee1fb54e71" name="Changes" comment="nueva clase">
-      <change afterPath="$PROJECT_DIR$/src/IterandoArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevuelveElMenorDeDiezEnteros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
